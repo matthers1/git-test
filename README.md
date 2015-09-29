@@ -1,9 +1,9 @@
 Git-TEST
-(testing phase)
+(master branch)
 =======
 
 "greatcode.py" = mmmmm
 
 "code2.py" = nnnnn
 
-trial basis
+original text
